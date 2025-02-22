@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+I'm Ankan Kushwaha,
+A passionate Coder and Web developer. I love building things that make the web a better place. Here’s a little about me:
+
 <!--
-**ANKAN-KUSHWAHA/ANKAN-KUSHWAHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ANKAN-KUSHWAHA/ANKAN-KUSHWAHA is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
