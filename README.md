@@ -1,20 +1,31 @@
+
 ## Hi there 👋
 
-I'm Ankan Kushwaha,
-A passionate Coder and Web developer. I love building things that make the web a better place. Here’s a little about me:
 
-<!--
+I'm Ankan Kushwaha
 
-ANKAN-KUSHWAHA/ANKAN-KUSHWAHA is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! A passionate coder and web developer. I love building things that make the web a better place. 
+Here’s a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+-> 🎓 Currently Learning **C programming, Web Development**.    
+-> 🌱 Currently exploring **frontend frameworks and animations** to enhance user experience.  
+-> 🤝 Open to collaborations on **web development**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Languages:** C, C++, HTML, CSS, JavaScript  
+- **Web Development**  
+- **Tools:** GitHub, VS Code 
+
+## 📌 Projects  
+### 🔢 **Prime Number Checker**  
+*A simple program to check if a number is prime.*  
+[🔗 View Project](https://prime-number-checker-six.vercel.app/) 
+
+
+## 📫 How to Reach Me  
+- 📧 Email: [ankankuswaha30@gmail.com](mailto:ankankushwaha30@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/ankan-kushwaha](www.linkedin.com/in/ankan-kushwaha)   
+
+
+⭐ **Feel free to connect and collaborate!**  
