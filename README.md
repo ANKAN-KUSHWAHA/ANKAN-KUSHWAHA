@@ -13,9 +13,9 @@ Here’s a little about me:
 -> 🤝 Open to collaborations on **web development**.  
 
 ## 🛠️ Skills  
-- **Languages:** C, C++, HTML, CSS, JavaScript  
+- **Languages:** java,Spring,python,C, C++, HTML, CSS, JavaScript  
 - **Web Development**  
-- **Tools:** GitHub, VS Code 
+- **Tools:** GitHub, VS Code , Eclipse IDE , Excel , mySql
 
 ## 📌 Projects  
 ### 🔢 **Prime Number Checker**  
