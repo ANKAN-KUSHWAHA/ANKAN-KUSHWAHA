@@ -1,58 +1,34 @@
-👋 Hi, I’m Ankan Kushwaha
+<h1 align="center">Hi 👋, I'm Ankan Kushwaha</h1>
+<h3 align="center">Backend-Focused Developer | Java & Web Technologies</h3>
 
-I’m a computer science student and developer focused on backend development and core programming.
-I enjoy breaking down problems, writing structured code, and gradually turning concepts into working systems.
+<p align="center">
+I’m a computer science student who enjoys turning concepts into working software.
+I focus on strong fundamentals, backend logic, and building projects that actually do something useful.
+</p>
 
-🎯 Current Focus
+---
 
-Strengthening Data Structures & Algorithms using C++ and Java
+## 🔥 What I’m Focused On Right Now
 
-Building backend applications with Java & Spring Boot
+- Mastering **Data Structures & Algorithms** using **C++ and Java**
+- Building **backend systems** with **Java & Spring Boot**
+- Understanding how things work under the hood — memory, APIs, databases
+- Writing cleaner, more maintainable, production-style code
 
-Improving understanding of system-level fundamentals (memory, processes, APIs)
+---
 
-Writing clean, readable, and maintainable code
+## 🧠 Technical Skills
 
-I don’t chase tools blindly — I focus on fundamentals that scale.
+### 💻 Programming Languages
+- **Java** (OOP, collections, exception handling)
+- **C & C++** (memory, pointers, problem solving)
+- **Python** (basics, scripting)
 
-🧠 Technical Skill Set
-Core Programming
+### ⚙️ Backend & Databases
+- **Spring / Spring Boot**
+- RESTful API development
+- **MySQL**
 
-Java – OOP, collections, exception handling
-
-C & C++ – memory, pointers, problem solving
-
-Python – scripting & basics
-
-Backend & Databases
-
-Spring / Spring Boot
-
-RESTful APIs
-
-MySQL (queries, schema design)
-
-Frontend (Supporting Skills)
-
-HTML, CSS, JavaScript
-
-Responsive layouts & basic UI logic
-
-Tools
-
-Git & GitHub (version control, collaboration)
-
-VS Code, Eclipse IDE
-
-MySQL Workbench, Excel
-
-🛠️ What I’m Building
-
-Backend-driven projects using Spring Boot
-
-Practice-driven DSA implementations
-
-Small but complete applications (not half-done demos)
 
 ## 📫 How to Reach Me  
 - 📧 Email: [ankankuswaha30@gmail.com](mailto:ankankushwaha30@gmail.com)  
